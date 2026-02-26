@@ -3,7 +3,7 @@
 :root {
   --background: #000000;
   --foreground: #ffffff;
-  --somnia-purple: #876dff;
+  --fhe-purple: #876dff;
   --monad-purple: #876dff; /* Keep for backward compatibility */
   --card-bg: #121212;
   --card-border: #262626;
@@ -11,7 +11,7 @@
 }
 
 @theme {
-  --color-somnia-purple: var(--somnia-purple);
+  --color-fhe-purple: var(--fhe-purple);
   --color-monad-purple: var(--monad-purple); /* Keep for backward compatibility */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
