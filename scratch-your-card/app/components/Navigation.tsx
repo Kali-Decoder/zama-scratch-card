@@ -214,7 +214,7 @@ export function Navigation() {
               <span
                 className={`h-2 w-2 rounded-full ${isProcessing ? "bg-yellow-300 animate-pulse" : "bg-emerald-300"}`}
               />
-              Reactivity: {isProcessing ? "Processing" : "Idle"}
+              FHE Protection is {isProcessing ? "Processing" : "Idle"}
             </div>
 
             <Link
