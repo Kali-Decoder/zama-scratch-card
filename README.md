@@ -2,13 +2,13 @@
 
 This repo contains:
 
-- `onchain-reactivity/`: Solidity contract + Hardhat scripts/tasks
+- `zama-fhe-scratch-contract/`: Solidity contract + Hardhat scripts/tasks
 - `scratch-your-card/`: Next.js frontend + leaderboard/profile APIs
 
 ## Where Zama FHE is used
 
 Zama FHE is used in the game contract:
-- `onchain-reactivity/contracts/ScratchCardFHEVMGame.sol`
+- `zama-fhe-scratch-contract/contracts/ScratchCardFHEVMGame.sol`
 
 It uses:
 - `@fhevm/solidity/lib/FHE.sol`
