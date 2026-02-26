@@ -46,8 +46,4 @@ Create `.env` in frontend:
 ```env
 NEXT_PUBLIC_SCRATCH_CARD_CONTRACT=<deployed_contract_address>
 MONGODB_URI=your_mongodb_connection_string
-MONGODB_DB=scratch_game
 ```
-
-Open `http://localhost:3000`.
-# zama-scratch-card
